@@ -21,8 +21,6 @@ Upon your first login, you'll see a welcome dialog with key steps to get started
 
 ![Welcome dialog placeholder](https://github.com/user-attachments/assets/0bcd6f65-ac17-4cba-9e59-85be24f9ac28)
 
----
-
 ## Account Setup
 
 ### Initial Setup
@@ -57,8 +55,6 @@ Configure your organization:
 - **Settings**: Configure feedback collection preferences (coming soon)
 
 ![Organization settings placeholder](./images/organization-settings.png)
-
----
 
 ## Collecting Feedback
 
@@ -119,11 +115,7 @@ For bulk feedback uploads, use the CSV upload feature:
 ![CSV upload placeholder](./images/csv-upload.png)
 
 ### API Integration
-For advanced users, FeedbackFlow provides an API to programmatically submit feedback. More details can be found in on the [API docs](https://feedbackflow.org/api/docs). Detailed step by step documentaion coming soon. 
-
-
-
----
+For advanced users, FeedbackFlow offers an API that allows for the submission of feedback programmatically. More details can be found in the [API docs](https://feedbackflow.org/api/docs). Detailed step by step documentaion coming soon. 
 
 ## Managing Feedback
 
@@ -194,8 +186,6 @@ FeedbackFlow uses a credit-based system:
 
 ![Billing dashboard placeholder](./images/billing-dashboard.png)
 
----
-
 ## Support & Resources
 
 ### Getting Help
@@ -219,8 +209,6 @@ We use our own product! Share your thoughts:
 - Vote on feature requests
 - Join beta testing programs
 
----
-
 ## Next Steps
 
 Now that you're set up with FeedbackFlow:
@@ -238,8 +226,6 @@ Now that you're set up with FeedbackFlow:
 - [🧠 Generate Insights](./insights)
 - [⚙️ Manage Settings](./settings)
 - [💳 Billing & Credits](./billing)
-
----
 
 
 *Welcome to FeedbackFlow! We're excited to help you make sense of your customer feedback. Remember, we're in public beta and constantly improving based on what you tell us.* 🚀
