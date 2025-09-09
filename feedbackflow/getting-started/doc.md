@@ -1,6 +1,4 @@
 
-# Getting Started with FeedbackFlow
-
 Welcome to FeedbackFlow! 🎉 This comprehensive guide will walk you through everything you need to know to get started with collecting, managing, and analyzing customer feedback.
 
 ## What is FeedbackFlow?
