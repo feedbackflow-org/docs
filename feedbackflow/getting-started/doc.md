@@ -17,8 +17,7 @@ FeedbackFlow is a web application designed to streamline the process of collecti
 
 Upon your first login, you'll see a welcome dialog with key steps to get started:
 
-![Welcome dialog placeholder](https://github.com/user-attachments/assets/0bcd6f65-ac17-4cba-9e59-85be24f9ac28)
-
+![Welcome dialog placeholder](https://github.com/user-attachments/assets/249c95ce-d6b3-4834-b752-f0891a55d531)
 ## Account Setup
 
 ### Initial Setup
@@ -43,7 +42,7 @@ Organizations in FeedbackFlow allow you to:
 2. Select "Manage Organizations" from the dropdown
 3. Create additional organizations or modify existing ones
 
-![Organization management placeholder](./images/organization-management.png)
+![Organization management placeholder](https://github.com/user-attachments/assets/6ee15083-8a67-4244-8df5-7043cdf41912)
 
 ### Organization Settings
 
@@ -52,7 +51,7 @@ Configure your organization:
 - **Logo**: Upload your brand logo
 - **Settings**: Configure feedback collection preferences (coming soon)
 
-![Organization settings placeholder](./images/organization-settings.png)
+![Organization settings placeholder](https://github.com/user-attachments/assets/05a1ebbb-0b55-41c3-ae93-9f07da29989e)
 
 ## Collecting Feedback
 
@@ -69,7 +68,7 @@ https://feedbackflow.org/collect/[your-organization-id]
 2. Find the "Your Feedback Form" card
 3. Share the link or the QR code to collect feedback from your users. 
 
-![Feedback form card placeholder](./images/feedback-form-card.png)
+![Feedback form card placeholder](https://github.com/user-attachments/assets/3c7e8ce9-0e86-49e8-a824-e81c68f3c7a0)
 
 #### Sharing Options
 
@@ -80,9 +79,7 @@ https://feedbackflow.org/collect/[your-organization-id]
 #### QR Code Sharing
 1. Click the QR code icon in the feedback form card
 2. Display the QR code for easy mobile access
-3. Download the QR code as an SVG file and share it to your users
-
-![QR code generation placeholder](./images/qr-code-generation.png)
+3. Download the QR code as an SVG file and share it with your users
 
 #### Website Integration
 Embed the feedback form directly into your website:
@@ -102,7 +99,7 @@ Your customers / users can:
 - Submit text feedback
 - Rate their experience
 
-![Feedback form interface placeholder](https://github.com/user-attachments/assets/24f4ccd8-3a6a-4219-b974-d398abc0af1c)
+![Feedback form interface placeholder](https://github.com/user-attachments/assets/6d2b3c84-8444-4777-a17c-8ddf4b59d870)
 
 ### Uploading Feedback via CSV
 For bulk feedback uploads, use the CSV upload feature:
@@ -110,10 +107,14 @@ For bulk feedback uploads, use the CSV upload feature:
 2. Click "Upload CSV"
 3. Follow the instructions to format and upload your CSV file
 
-![CSV upload placeholder](./images/csv-upload.png)
+![CSV upload placeholder](https://github.com/user-attachments/assets/6f7c8e29-34d1-4cfe-974b-67ed90920957)
+![CSV upload verify](https://github.com/user-attachments/assets/074cddae-ba28-4ea8-bf8b-0cdb282fbd41)
+
 
 ### API Integration
 For advanced users, FeedbackFlow offers an API that allows for the submission of feedback programmatically. More details can be found in the [API docs](https://feedbackflow.org/api/docs). Detailed step by step documentaion coming soon. 
+
+![API Docs](https://github.com/user-attachments/assets/36e29f8d-6eb0-47ad-bfbf-693ce7fb1376)
 
 ## Managing Feedback
 
@@ -121,7 +122,7 @@ For advanced users, FeedbackFlow offers an API that allows for the submission of
 
 Navigate to [/reviews](https://feedbackflow.org/reviews) to see all submitted feedback:
 
-![Reviews dashboard placeholder](./images/reviews-dashboard.png)
+![Reviews dashboard placeholder](https://github.com/user-attachments/assets/6daa8b36-1c12-4090-b948-c94ad37ce530)
 
 ## Generating Insights
 
@@ -129,7 +130,7 @@ Navigate to [/reviews](https://feedbackflow.org/reviews) to see all submitted fe
 
 Navigate to [/insights](https://feedbackflow.org/insights) to access AI-generated insights:
 
-![Insights dashboard placeholder](./images/insights-dashboard.png)
+![Insights dashboard placeholder](https://github.com/user-attachments/assets/205f9a9f-1060-40c4-b617-28efae5378b9)
 
 ### Available Insights
 
@@ -153,9 +154,6 @@ Navigate to [/insights](https://feedbackflow.org/insights) to access AI-generate
 3. Click "Generate Insights"
 4. Review AI-generated recommendations
 
-![Insight generation process placeholder](./images/insight-generation-process.png)
-
-
 ## Billing & Credits
 
 ### Credit System
@@ -172,9 +170,6 @@ FeedbackFlow uses a credit-based system:
 | 100 - 1000 | 45 |
 | More than 1000 | 60 |
 
-
-![Credit balance placeholder](./images/credit-balance.png)
-
 ### Managing Billing
 
 1. Navigate to [/billing](https://feedbackflow.org/billing) to manage your subscription
@@ -182,7 +177,7 @@ FeedbackFlow uses a credit-based system:
 3. Purchase additional credits
 4. Manage payment methods
 
-![Billing dashboard placeholder](./images/billing-dashboard.png)
+![Billing dashboard placeholder](https://github.com/user-attachments/assets/06383783-78fd-4e89-be52-a4f79d1167f5)
 
 ## Support & Resources
 
@@ -196,8 +191,6 @@ Need assistance? We're here to help:
 #### Community Support
 - **Discord**: [Join our community](https://discord.gg/VGCbvbfq)
 - **Bug reports**: [Submit via Notion](https://aritra041999.notion.site/23ff573231ea80dfad0ccbf1a8ae3bce?pvs=105)
-
-![Support channels placeholder](./images/support-channels.png)
 
 
 #### Feedback & Feature Requests
